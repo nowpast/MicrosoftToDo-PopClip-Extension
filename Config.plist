@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Extension Description</key>
+    <string>Microsoft To Do Extension By YourName</string>
+    <key>Extension Identifier</key>
+    <string>com.yourname.MicrosoftToDoExtension</string>
+    <key>Extension Name</key>
+    <string>Microsoft ToDo</string>
+    <key>Version</key>
+    <integer>1</integer>
+    <key>Actions</key>
+    <array>
+      <dict>
+        <key>After</key>
+        <string>show-status</string>
+        <key>Title</key>
+        <string>MToDo</string>
+        <key>AppleScript File</key>
+        <string>todo.applescript</string>
+      </dict>
+    </array>
+  </dict>
+</plist>
