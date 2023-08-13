@@ -1,7 +1,9 @@
 # MicrosoftToDo-PopClip-Extension
 可以运行在最新版PopClip(2023.7)上的Microsoft Todo插件
 
-之前网络上可用版本（https://github.com/CivicTesla/001-Repository4Blog/blob/main/microsoft-todo.popclipext.zip）PopClip升级后报错；先已经过ChatGPT修复报错；
+之前网络上可用版本（https://github.com/CivicTesla/001-Repository4Blog/blob/main/microsoft-todo.popclipext.zip）
+
+PopClip升级后报错；现已经过ChatGPT修复报错；
 
 如何创建这个插件？
 创建文件夹：在您的计算机上创建一个名为MicrosoftToDo.popclipext的文件夹。
